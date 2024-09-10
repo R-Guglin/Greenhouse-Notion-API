@@ -1,6 +1,7 @@
 Timestamp
 Email
-Name
+First Name
+Last Name
 LinkedIn
 Location
 Time Zone
